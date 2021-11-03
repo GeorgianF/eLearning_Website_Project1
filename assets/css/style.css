@@ -90,8 +90,50 @@ header div h1 {
     width: 350px;
     height: 350px;
     border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    font-size: 11px;
     position: absolute;
     top: 10%;
     left: 3%;
+    inline-size: 350px; 
+}
 
+
+
+  #about button {
+    animation: myAnim 2s ease 1s 5 normal forwards;
+    cursor: pointer;
+  }
+
+  @keyframes myAnim {
+    0% {
+      transform: scale3d(1, 1, 1);
+    }
+  
+    30% {
+      transform: scale3d(1.25, 0.75, 1);
+    }
+  
+    40% {
+      transform: scale3d(0.75, 1.25, 1);
+    }
+  
+    50% {
+      transform: scale3d(1.15, 0.85, 1);
+    }
+  
+    65% {
+      transform: scale3d(0.95, 1.05, 1);
+    }
+  
+    75% {
+      transform: scale3d(1.05, 0.95, 1);
+    }
+  
+    100% {
+      transform: scale3d(1, 1, 1);
+    }
 }

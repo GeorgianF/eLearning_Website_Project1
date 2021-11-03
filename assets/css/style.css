@@ -37,4 +37,14 @@ header div h1 {
     }
   }
 
+  #nav {
+    background-image: linear-gradient(to right, #fa8128, #fa7d22, #fa791d, #fb7416, #fb700f, #ff5d33, #ff4b4c, #fb3d63, #db3f90, #a652ac, #655eb1, #1261a0);
+    border: 1px solid black;
+    margin-top: 5px;
+    
+  }
 
+  #nav ul li {
+    display: flex-inline;
+  }
+   

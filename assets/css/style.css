@@ -55,10 +55,14 @@ header div h1 {
   }
 
 #nav ul li {
-    text-decoration: none;
     list-style-type: none;
     padding-right: 50px;
     padding-top: 30px;
     margin: 0 auto;
     font-weight: 700;
+}
+
+#nav ul li a {
+    text-decoration: none;
+    color: black;
 }

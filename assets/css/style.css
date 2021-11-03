@@ -36,15 +36,29 @@ header div h1 {
       background-position: 1000px 0;
     }
   }
-
-  #nav {
+  
+#nav {
     background-image: linear-gradient(to right, #fa8128, #fa7d22, #fa791d, #fb7416, #fb700f, #ff5d33, #ff4b4c, #fb3d63, #db3f90, #a652ac, #655eb1, #1261a0);
     border: 1px solid black;
     margin-top: 5px;
+    justify-content: center;
+    width: 100%;
+    height: 75px;
     
   }
 
-  #nav ul li {
-    display: flex-inline;
+#nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
   }
-   
+
+#nav ul li {
+    text-decoration: none;
+    list-style-type: none;
+    padding-right: 50px;
+    padding-top: 30px;
+    margin: 0 auto;
+    font-weight: 700;
+}

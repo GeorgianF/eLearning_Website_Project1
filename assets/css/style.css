@@ -83,6 +83,7 @@ header div img {
   background-size: 100%;
   margin-right: 100px;
   margin-left: 100px;
+  border-bottom: 1px solid black;
 }
 
 .about-text {
@@ -211,3 +212,18 @@ p {
   margin-bottom: 5px;
 }
 
+#media {
+  margin: 0 auto;
+  background-color: #82b479;
+  border-top: 2px solid black;
+}
+
+#media iframe {
+  width: 1000px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+iframe {
+  display: block;
+}

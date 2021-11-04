@@ -95,8 +95,8 @@ h1 {
 }
 
 .square {
-  height: 12px;
-  width: 12px;
+  height: 20px;
+  width: 20px;
   display: inline-blocK;
   background-color: #fa8128;
   margin: 15px 0;
@@ -104,6 +104,7 @@ h1 {
 
 .common-button {
   padding: 15px 30px;
+  margin-left: 20%;
   background: transparent;
   outline: none;
   border: 2px solid #fa8128;
@@ -143,11 +144,7 @@ p {
   line-height: 8px;
 }
 
-
-
-
-
-  #about button {
+#about button {
     animation: myAnim 2s ease 1s 5 normal forwards;
     cursor: pointer;
   }

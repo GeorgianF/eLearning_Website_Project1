@@ -250,6 +250,10 @@ iframe {
   padding-left: 25px;
 }
 
+.mission-text h2 {
+  font-size: 15px;
+}
+
 #mission button {
   animation: myAnim 2s ease 1s 5 normal forwards;
   cursor: pointer;

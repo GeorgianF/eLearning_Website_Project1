@@ -75,6 +75,73 @@ header div h1 {
     transition: 1s ease;
 }
 
+.container {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.about-text {
+  max-width: 350px;
+  margin-top: 140px;
+}
+
+.header-text button {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.square {
+  height: 12px;
+  width: 12px;
+  display: inline-blocK;
+  background-color: #fa8128;
+  margin: 15px 0;
+}
+
+.common-button {
+  padding: 15px 30px;
+  background: transparent;
+  outline: none;
+  border: 2px solid #fa8128;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 18px;
+  color: black;
+}
+
+.line-1 {
+  width: 20px;
+  height: 20px;
+  background: #fa8128;
+  display: inline-block;
+  margin-top: 5px;
+}
+.line-2 {
+  width: 100px;
+  height: 2px;
+  background: #fa8128;
+  display: inline-block;
+}
+
+.line-3 {
+  width: 80px;
+  height: 2px;
+  background: #fa8128;
+  display: inline-block;
+}
+
+.line {
+  line-height: 8px;
+}
 
 
 

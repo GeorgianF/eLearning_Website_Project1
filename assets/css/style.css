@@ -76,31 +76,7 @@ header div h1 {
 }
 
 
-#about {
-    background: url('/assets/images/laptop.jpeg');
-    clip-path: polygon(31% 0, 100% 0%, 100% 100%, 30% 100%, 0% 50%);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 800px;
-    position: relative;
-}
 
-#about p {
-    background-color: #fa8128 ;
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    font-size: 11px;
-    position: absolute;
-    top: 10%;
-    left: 3%;
-    inline-size: 350px; 
-}
 
 
 

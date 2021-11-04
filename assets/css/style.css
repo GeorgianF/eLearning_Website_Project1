@@ -218,6 +218,12 @@ p {
   border-top: 2px solid black;
 }
 
+#media h2 {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
 #media iframe {
   width: 1000px;
   height: 500px;

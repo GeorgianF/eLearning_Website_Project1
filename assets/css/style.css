@@ -111,7 +111,7 @@ h1 {
 }
 
 .common-button {
-  padding: 15px 30px;
+  padding: 15px 15px;
   margin-left: 20%;
   background: transparent;
   outline: none;
@@ -216,6 +216,7 @@ p {
   margin: 0 auto;
   background-color: #82b479;
   border-top: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 #media h2 {
@@ -228,8 +229,58 @@ p {
   width: 1000px;
   height: 500px;
   margin: 0 auto;
+  padding-bottom: 50px;
 }
 
 iframe {
   display: block;
+}
+
+.mission-container {
+  background: url('/assets/images/classroom.jpeg');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mission-text {
+  max-width: 250px;
+  padding-top: 200px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+}
+
+#mission button {
+  animation: myAnim 2s ease 1s 5 normal forwards;
+  cursor: pointer;
+}
+
+@keyframes myAnim {
+  0% {
+    transform: scale3d(1, 1, 1);
+  }
+
+  30% {
+    transform: scale3d(1.25, 0.75, 1);
+  }
+
+  40% {
+    transform: scale3d(0.75, 1.25, 1);
+  }
+
+  50% {
+    transform: scale3d(1.15, 0.85, 1);
+  }
+
+  65% {
+    transform: scale3d(0.95, 1.05, 1);
+  }
+
+  75% {
+    transform: scale3d(1.05, 0.95, 1);
+  }
+
+  100% {
+    transform: scale3d(1, 1, 1);
+  }
 }

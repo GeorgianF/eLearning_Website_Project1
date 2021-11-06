@@ -243,6 +243,7 @@ iframe {
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 600px;
 }
 
 .mission-text {
@@ -290,3 +291,4 @@ iframe {
     transform: scale3d(1, 1, 1);
   }
 }
+

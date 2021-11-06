@@ -238,6 +238,11 @@ iframe {
   display: block;
 }
 
+#mission {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
 .mission-container {
   background: url('/assets/images/classroom.jpeg');
   background-position: top;
@@ -299,16 +304,61 @@ iframe {
 }
 
 .register-right, .register-left {
-  flex-basis: 50%;
+  flex-basis: 40%;
+
 }
 
 .register-right img {
-  width: 50%;
+  width: 80%;
   border-radius: 50%;
   margin-top: 50px;
 }
 
+
 form {
   max-width: 550px;
   margin-top: 50px;
+  margin-left: 50px;
 }
+form h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+form input {
+  height: 30px;
+  width: 60%;
+  margin: 15px 10px 20px;
+  box-sizing: border-box;
+  -webkit-box-shadow: 2px 2px 2px 0px #fa8128, inset 2px 2px 10px 0px #fa8128, 2px 2px 10px 2px rgba(250, 129, 40, 0.5); 
+  box-shadow: 2px 2px 2px 0px #fa8128, inset 2px 2px 10px 0px #fa8128, 2px 2px 10px 2px rgba(250, 129, 40, 0.5);
+  outline: none;
+  border: none;
+  border-radius: 25px;
+  text-align: center;
+}
+
+form input:focus {
+  background-color: #d8e9bd;
+}
+
+form label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+#subjects {
+  font-weight: bold;
+}
+
+.register-button {
+  width: 150px;
+  background-color: #fa8128;
+  font-weight: bold;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+}
+

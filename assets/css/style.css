@@ -301,6 +301,7 @@ iframe {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  border-bottom: 2px solid black;
 }
 
 .register-right, .register-left {
@@ -357,8 +358,4 @@ form label {
   font-weight: bold;
 }
 
-hr {
-  height: 2px;
-  background-color: black;
-}
 

@@ -359,4 +359,13 @@ form label {
   font-weight: bold;
 }
 
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
 
+footer h4 {
+  color: #fa8128;
+}

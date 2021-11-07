@@ -369,3 +369,21 @@ footer {
 footer h4 {
   color: #fa8128;
 }
+
+.social-icons-nav {
+  width: 40px;
+  position: fixed;
+  right: 0%;
+  top: 50%;
+  z-index: 1;
+}
+
+.social-icons-nav a {
+  text-decoration: none;
+}
+
+.social-icons-nav a img {
+  display: block;
+  cursor: pointer;
+  margin: 0 auto 50px;
+}

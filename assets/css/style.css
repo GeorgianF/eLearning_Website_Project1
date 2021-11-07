@@ -302,6 +302,7 @@ iframe {
   justify-content: center;
   flex-wrap: wrap;
   border-bottom: 2px solid black;
+  padding-bottom: 30px;
 }
 
 .register-right, .register-left {

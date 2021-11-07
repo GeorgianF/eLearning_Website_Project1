@@ -330,7 +330,7 @@ form label {
   font-weight: bold;
 }
 
-footer {
+.flex {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -339,7 +339,7 @@ footer {
   margin-bottom: 35px;
 }
 
-footer h4 {
+.flex h4 {
   color: #fa8128;
 }
 
@@ -359,4 +359,25 @@ footer h4 {
   display: block;
   cursor: pointer;
   margin: 0 auto 50px;
+}
+
+/* Courses page */
+
+.headings {
+  margin-left: 0 auto;
+  align-items: center;
+}
+
+#web-courses {
+  border: 1px solid black;
+  margin: 0 20px;
+}
+
+#web-courses h3 {
+  margin-top: 10px;
+  
+}
+
+.container-courses img {
+  margin-bottom: 15px;
 }

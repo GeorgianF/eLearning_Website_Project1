@@ -370,15 +370,17 @@ div h3 {
   padding-top: 20px;
 }
 
-#web-courses {
+#web-courses, #arts-courses {
   border: 1px solid black;
 }
 
-#web-courses h4 {
+#web-courses h4, #arts-courses h4 {
   margin-top: 10px;
 }
 
 .container-courses img {
   margin-bottom: 15px;
-  border: 1px solid #fa8128
+  border: 1px solid #fa8128;
+  height: 55px;
+  width: 75px;
 }

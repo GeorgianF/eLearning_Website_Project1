@@ -370,11 +370,11 @@ div h3 {
   padding-top: 20px;
 }
 
-#web-courses, #arts-courses {
+#web-courses, #arts-courses, #cooking-courses {
   border: 1px solid black;
 }
 
-#web-courses h4, #arts-courses h4 {
+#web-courses h4, #arts-courses h4, #cooking-courses h4 {
   margin-top: 10px;
 }
 

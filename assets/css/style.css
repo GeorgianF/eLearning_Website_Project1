@@ -92,6 +92,7 @@ h1 {
   font-weight: bold;
   cursor: pointer;
   border-radius: 30px;
+  text-decoration: none;
 }
 
 p {
@@ -158,6 +159,11 @@ p {
     100% {
       transform: scale3d(1, 1, 1);
     }
+}
+
+#about button a {
+  text-decoration: none;
+  color: black;
 }
 
 #features {
@@ -266,6 +272,11 @@ iframe {
   100% {
     transform: scale3d(1, 1, 1);
   }
+}
+
+#mission button a {
+  text-decoration: none;
+  color: black;
 }
 
 #register {

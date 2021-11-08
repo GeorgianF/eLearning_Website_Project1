@@ -384,3 +384,20 @@ div h3 {
   height: 100px;
   width: 125x;
 }
+
+#registration-reminder {
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+
+#btn {
+  padding: 15px 15px;
+  margin-top: 20px;
+  margin-left: 2%;
+  background: transparent;
+  outline: none;
+  border: 2px solid #fa8128;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 30px;
+}

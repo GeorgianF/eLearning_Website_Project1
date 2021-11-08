@@ -336,7 +336,7 @@ form label {
   justify-content: space-evenly;
   flex-wrap: wrap;
   margin-top: 15px;
-  margin-bottom: 35px;
+  margin-bottom: 5px;
 }
 
 .flex h4 {
@@ -381,6 +381,6 @@ div h3 {
 .container-courses img {
   margin-bottom: 15px;
   border: 1px solid #fa8128;
-  height: 55px;
-  width: 75px;
+  height: 100px;
+  width: 125x;
 }

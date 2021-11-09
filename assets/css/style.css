@@ -333,10 +333,11 @@ form label {
 .flex {
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-wrap: wrap;
-  margin-top: 15px;
-  margin-bottom: 5px;
+  width: 80%;
+  margin: 15px 75px 30px 75px;
+  padding: 0px 25px 0px 25px;
 }
 
 .flex h4 {

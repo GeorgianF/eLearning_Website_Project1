@@ -321,10 +321,6 @@ form input {
   text-align: center;
 }
 
-form input:focus {
-  background-color: #d8e9bd;
-}
-
 form label {
   font-weight: bold;
   margin-right: 5px;

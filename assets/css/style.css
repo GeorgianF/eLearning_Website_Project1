@@ -394,6 +394,10 @@ div h3 {
   border: 1px solid #fa8128;
   height: 100px;
   width: 125x;
+  border: 1px solid #fa8128;
+  height: 250 px;
+  width: 100%;
+  object-fit: cover;
 }
 
 #registration-reminder {

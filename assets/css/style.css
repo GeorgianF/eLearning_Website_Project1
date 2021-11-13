@@ -500,21 +500,90 @@ form label {
 }
 
 @media only screen and (max-width: 768px) {
+  .about-text {
+    padding-top: 30px;
+  }
 
-  #web-courses, #arts-courses, #cooking-courses, #personal-courses, #photo-courses {
+  .about-text h1 {
+    font-size: 14px;
+  }
+
+  .about-text p {
+    font-size: 12px;
+    max-width: 200px;
+  }
+
+  .container {
+    background-size: 70%;
+    background-position-x: right;
+  }
+
+  #media iframe {
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+#web-courses, #arts-courses, #cooking-courses, #personal-courses, #photo-courses {
     height: 160px;
   }
-  
+
   .container-courses {
-    height: 150px;
-    width: 150px;
+    height: 160px;
+    width: 120px;
   }
-  
+
   .container-courses h4 {
     padding: 5%;  
   }
 
   #plans-footer {
-    margin: 0 100px;
+    margin: 0 50px;
+  }
+
+  #register h2 {
+    font-size: 14px;
+  }
+
+  .register-right img {
+    margin-top: 150px;
+  }
+
+  .mission-container {
+    background: url(../images/teacher-green.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-right: 50px;
+    margin-left: 20px;
+  }
+
+  .mission-text h1 {
+    font-size: 14px;
+  }
+
+  .mission-text h2 {
+    font-size: 12px;
+  }
+
+  .mission-text p {
+    font-size: 11px;
+  }
+
+  .flex {
+    margin: 15px 25px;
+    padding: 50px;
+  }
+
+  #plans div {
+    height: 300px ;
+  }
+
+  form {
+    margin-left: 0;
+  }
+
+  form label {
+    font-size: 12px;
   }
 }

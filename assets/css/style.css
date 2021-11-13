@@ -510,3 +510,14 @@ form label {
   padding-left: 10px;
   padding-right: 10px;
 }
+
+  #plans-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#plans-button button {
+  width: 200px;
+  margin: 0 auto;
+}

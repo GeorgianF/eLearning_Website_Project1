@@ -337,7 +337,7 @@ form label {
   flex-wrap: wrap;
   width: 80%;
   margin: 15px 75px 30px 75px;
-  padding: 0px 25px 0px 25px;
+  padding: 25px 25px;
 }
 
 .flex h4 {

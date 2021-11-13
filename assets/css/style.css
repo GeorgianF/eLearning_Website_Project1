@@ -521,3 +521,10 @@ form label {
   width: 200px;
   margin: 0 auto;
 }
+
+#plans-footer {
+  border-top: 1px solid #82b579;
+  position: absolute;
+  bottom: 5%;
+  margin: 0 200px;
+}

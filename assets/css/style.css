@@ -474,3 +474,39 @@ form label {
   cursor: pointer;
   border-radius: 30px;
 }
+
+/* Plans page */
+
+#plans {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#plans div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 200px;
+  height: 400px;
+  box-sizing: border-box;
+  border: 1px solid #fa8128;
+  margin: 25px;
+  box-sizing: border-box;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  border-radius: 20px;
+}
+
+#plans div:hover {
+  border-color: #82b579;
+  box-shadow: rgb(130, 181, 121) 0px 20px 30px -10px;
+}
+
+#plans div p {
+  padding-left: 10px;
+  padding-right: 10px;
+}

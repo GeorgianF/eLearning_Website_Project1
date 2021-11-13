@@ -369,36 +369,54 @@ form label {
 
 /* Courses page */
 
-div h3 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-top: 20px;
+.headings {
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: fit-content;
 }
 
 #web-courses, #arts-courses, #cooking-courses {
-  border: 1px solid black;
+  height: 260px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+  margin: 0 auto; 
 }
 
-#web-courses h4, #arts-courses h4, #cooking-courses h4 {
-  margin-top: 10px;
+.container-courses {
+  height: 250px;
+  width: 200px;
+  box-sizing: border-box;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  overflow: hidden;
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
 }
 
 .container-courses img {
-  margin-bottom: 15px;
-  border: 1px solid #fa8128;
-  height: 100px;
-  width: 125x;
-  border: 1px solid #fa8128;
-  height: 250 px;
-  width: 100%;
-  object-fit: cover;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.container-courses h4 {
+  padding: 2%;
 }
 
 #registration-reminder {
   margin-left: 30px;
   margin-bottom: 50px;
 }
+
+/* Registration page */
 
 #register {
   display: flex;

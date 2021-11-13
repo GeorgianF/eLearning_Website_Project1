@@ -376,7 +376,7 @@ form label {
   width: fit-content;
 }
 
-#web-courses, #arts-courses, #cooking-courses {
+#web-courses, #arts-courses, #cooking-courses, #personal-courses, #photo-courses {
   height: 260px;
   display: flex;
   justify-content: space-between;

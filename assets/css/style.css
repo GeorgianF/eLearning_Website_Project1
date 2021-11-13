@@ -476,3 +476,45 @@ form label {
   bottom: 5%;
   margin: 0 200px;
 }
+
+/* Media Queries */
+
+@media only screen and (max-width: 1024px) {
+
+  #web-courses, #arts-courses, #cooking-courses, #personal-courses, #photo-courses {
+    height: 160px;
+  }
+  
+  .container-courses {
+    height: 150px;
+    width: 150px;
+  }
+  
+  .container-courses h4 {
+    padding: 5%;  
+  }
+
+  #plans-footer {
+    margin: 0 100px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  #web-courses, #arts-courses, #cooking-courses, #personal-courses, #photo-courses {
+    height: 160px;
+  }
+  
+  .container-courses {
+    height: 150px;
+    width: 150px;
+  }
+  
+  .container-courses h4 {
+    padding: 5%;  
+  }
+
+  #plans-footer {
+    margin: 0 100px;
+  }
+}

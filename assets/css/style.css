@@ -65,7 +65,7 @@
   padding-bottom: 100px;
 }
 
-h1 {
+.about-text h2 {
   font-size: 20px;
 }
 
@@ -277,7 +277,7 @@ iframe {
   }
 }
 
-#mission button a {
+#mission a {
   text-decoration: none;
   color: black;
 }
@@ -292,7 +292,7 @@ iframe {
   padding: 25px 25px;
 }
 
-.flex h4 {
+.flex h3 {
   color: #fa8128;
 }
 

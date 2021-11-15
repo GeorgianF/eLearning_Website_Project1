@@ -675,4 +675,31 @@ form label {
     width: 20px;
   }
 
+  #plans-button {
+    margin-bottom: 50px;
+  }
+
+  #plans-footer {
+    position: relative;
+    bottom: 15%;
+    margin-bottom: 50px;
+  }
+
+  #plans div {
+    height: 100px;
+    width: 400px;
+  }
+
+  #plans div h2 {
+    font-size: 12px;
+  }
+
+  #plans div h3 {
+    font-size: 12px;
+  }
+
+  #plans div p {
+    font-size: 10px;
+  }
+
 }

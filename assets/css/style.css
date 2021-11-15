@@ -497,6 +497,10 @@ form label {
   #plans-footer {
     margin: 0 100px;
   }
+
+  #register {
+    padding-bottom: 120px;
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -595,6 +599,10 @@ form label {
     width: 100%;
   }
 
+  #nav ul {
+    float: none;
+  }
+
   #nav ul li {
   line-height: 0;
   padding: 10px 20px;
@@ -665,6 +673,7 @@ form label {
     justify-content: space-evenly;
     align-content: center;
     position: relative;
+    bottom: 1%;
     width: 90%;
     height: 20px;
     padding: 15px;
@@ -676,13 +685,13 @@ form label {
   }
 
   #plans-button {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
   }
 
   #plans-footer {
     position: relative;
     bottom: 15%;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
   }
 
   #plans div {
@@ -715,7 +724,21 @@ form label {
 
   .container-courses img {
     display: none;
-
   }
 
+  form input {
+    width: 80%;
+  }
+
+  .register-right img {
+    width: 100%;
+  }
+
+  #register {
+    padding-bottom: 180px
+  }
+
+  #register-footer {
+    margin-bottom: 20px;
+  }
 }

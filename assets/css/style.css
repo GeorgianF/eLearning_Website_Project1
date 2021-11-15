@@ -370,7 +370,8 @@ iframe {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding-bottom: 30px;
+  padding-bottom: 130px;
+  border-bottom: 1px solid rgba(58, 138, 18, 1);
 }
 
 .register-right, .register-left {

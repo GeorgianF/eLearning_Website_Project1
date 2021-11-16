@@ -127,12 +127,6 @@ p {
   cursor: pointer;
   }
 
-  #about span {
-    animation: myAnim 2s ease 1s 5 normal forwards;
-  }
-
-
-
 .features {
   padding: 50px 0;
   margin-top: 10px;

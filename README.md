@@ -3,4 +3,4 @@ The idea behind the website is that you, as a customer, register the information
 
 It does not have a targeted age group, it's universal.
 
-./assets/screenshots/Screenshot 2021-11-15 at 13.27.52.png
+/workspace/eLearning_Website_Project1/assets/screenshots/amiresponsive.png

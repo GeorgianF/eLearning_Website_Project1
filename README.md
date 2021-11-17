@@ -3,4 +3,94 @@ The idea behind the website is that you, as a customer, register the information
 
 It does not have a targeted age group, it's universal.
 
+Users will find on the website information about our mission, the courses available (but I only put 5 categories, with 5 subcategories) for more courses they have to submit the form that they can find on the register page.
+They can also find a page with the subscription plan.
+
 ![Screenshot 2021-11-15 at 13 27 52](https://user-images.githubusercontent.com/91877102/142062121-50c2abdb-4b1d-44ee-966f-9c2dca4242ef.png)
+
+When chosing the main contrast of colors I used the websites:
+
+https://mycolor.space/ 
+https://material.io/resources/color/#!/?view.left=0&view.right=0
+
+
+Features:
+
+Navivation: 
+
+In present on the top-right corner where there are link to other pages likes Courses, Plans, Register, but also Home. There are styled like a button, onnce you hover over them, the color changes. The font and color are in contrast with each other.
+The navigation, tells the visitor where he can find the certain section, within the website, easy to find.
+
+The frst page, Home page, is structured in different sections:
+
+Section 1: About 
+
+The user will find a short wisdom phrase about the learning process, and a button that will send him to the courses page.
+
+<img width="969" alt="Screenshot 2021-11-17 at 05 00 41" src="https://user-images.githubusercontent.com/91877102/142132351-1c691353-b4ec-4890-9f10-610be71d035f.png">
+
+
+Section 2 and 4: Features
+
+The features sections are mentioned two times within the first page, so the user sees the advantages of chosing the learning plan.
+
+Section 3: Media
+
+There is a video, from youtube, insight on future education
+The link for the video is here: https://www.youtube.com/watch?v=LO4l5XpOc-s&t=2s
+
+Section 5: Mission
+
+The user will find information about the websites mission, on enabling anyone with acces to internet to have the resources to develop himself.
+You can find a button that will redirect to the registration form.
+
+<img width="692" alt="Screenshot 2021-11-17 at 05 07 59" src="https://user-images.githubusercontent.com/91877102/142133029-a7f62b07-085c-40ce-ad2c-ef29e06356b6.png">
+
+On the second page, there is the courses page, where is posted 5 categories with 5 subcategories.
+There is also a button that redirects the user to the register page.
+
+On the third page, there is the plan that the user can choose is him development, and information about each one.
+
+On the forth page there is the registration form, where all the entry fields are required for valid form.
+
+<img width="725" alt="Screenshot 2021-11-17 at 05 13 39" src="https://user-images.githubusercontent.com/91877102/142133511-2feba18b-4ad2-4798-b46e-da2b5e578dca.png">
+
+
+Testing: 
+
+I've tested to see if the page it's working in different browsers: Firefox, Chrome, Edge, Safari.
+I've confirm that the page is responsive using the Dev Tools.
+I confirm that all the navigation and content are easy readable and have a balance of contrast.
+I confirm that the form work, but once the button is submited it does not have a server to go to, so it displays an error 405 - Not Allowed.
+
+Validator testing
+
+W3C is checked:
+
+![Screenshot 2021-11-15 at 22 00 22](https://user-images.githubusercontent.com/91877102/142147110-8c912e3a-fded-4180-a4db-8e30de1424ed.png)
+
+
+CSS is checked:
+
+![Screenshot 2021-11-15 at 13 16 49](https://user-images.githubusercontent.com/91877102/142146983-a1765f64-e7a2-42e4-87fa-5ec6a1535704.png)
+
+
+Accesability with lighthouse is checked:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

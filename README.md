@@ -1,7 +1,7 @@
 The Learning Project is a landing website where anyone can be challenged to learn and develop themself.
-The idea behind the website is that you, as a customer, register the information about yourself annd the subject interested to learn and we will provide will material for you to learn from all over the web.
+The idea behind the website is that you, as a customer, register the information about yourself and the subject interested to learn, and we will provide will material for you to learn from all over the web.
 
-It does not have a targeted age group, it's universal.
+It does not have a targeted age group, it's universal, because there is a vast range of things that you can do.
 
 Users will find on the website information about our mission, the courses available (but I only put 5 categories, with 5 subcategories) for more courses they have to submit the form that they can find on the register page.
 They can also find a page with the subscription plan.

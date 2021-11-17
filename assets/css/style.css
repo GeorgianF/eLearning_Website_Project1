@@ -285,6 +285,13 @@ iframe {
 
 }
 
+.container-courses:hover {
+  border-color: #82b579;
+  box-shadow: rgb(130, 181, 121) 0px 20px 30px -10px;
+  cursor: pointer;
+}
+
+
 .container-courses img {
     height: 100%;
     width: 100%;

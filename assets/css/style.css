@@ -45,9 +45,9 @@
 
 .container {
   background: url('../images/teacher.jpeg');
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 80%;
   margin-right: 10px;
   margin-left: 10px;
   padding-right: 50px;

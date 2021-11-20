@@ -416,12 +416,6 @@ form label {
   border-radius: 20px;
 }
 
-#plans div:hover {
-  border-color: #82b579;
-  box-shadow: rgb(130, 181, 121) 0px 20px 30px -10px;
-  cursor: pointer;
-}
-
 #plans div p {
   padding-left: 10px;
   padding-right: 10px;
@@ -439,8 +433,11 @@ form label {
 }
 
 #plans-footer {
-  position: relative;
-  bottom: 5%;
+  border-top: 1px solid black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #f78128;
 }
 
 /* Media Queries */

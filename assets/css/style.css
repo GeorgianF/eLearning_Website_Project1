@@ -232,9 +232,8 @@ iframe {
   top: 25%;
   z-index: 1;
   background: #82b579;
-  margin: 10px;
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 15px 0px 0px 15px;
   box-shadow: -4px 3px 8px 0px grey;
 }
 

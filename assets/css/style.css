@@ -244,7 +244,6 @@ footer {
   width: 80%;
   margin: 0px 75px 30px 75px;
   padding-top: 15px ;
-  color: white;
 }
 
 .flex h3 {
@@ -260,8 +259,6 @@ footer {
   padding-bottom: 10px;
   color: black;
 }
-
-
 
 .social-icons-nav {
   width: 40px;
@@ -318,13 +315,6 @@ footer {
   justify-content: center;
 
 }
-
-.container-courses:hover {
-  border-color: #82b579;
-  box-shadow: rgb(130, 181, 121) 0px 20px 30px -10px;
-  cursor: pointer;
-}
-
 
 .container-courses img {
     height: 100%;

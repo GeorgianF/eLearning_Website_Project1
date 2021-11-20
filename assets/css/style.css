@@ -561,6 +561,11 @@ form label {
 }
 
 @media only screen and (max-width: 768px) {
+  .flex {
+    margin: 0 auto;
+    padding-bottom: 10px;
+  }
+
   .about-text {
     padding-top: 30px;
   }
@@ -586,6 +591,14 @@ form label {
     padding-bottom: 50px;
 }
 
+#index-footer {
+  background-color: #fa8128;
+}
+
+#index-footer h3, #index-footer small, #index-footer h5 {
+  color: #fff;
+}
+
 #web-courses, #arts-courses, #cooking-courses, #personal-courses, #photo-courses {
     height: 160px;
   }
@@ -597,10 +610,6 @@ form label {
 
   .container-courses h4 {
     padding: 5%;  
-  }
-
-  #plans-footer {
-    margin: 0 25px;
   }
 
   #register h2 {
@@ -630,11 +639,6 @@ form label {
 
   .mission-text p {
     font-size: 11px;
-  }
-
-  .flex {
-    margin: 15px 25px;
-    padding: 50px;
   }
 
   #plans div {

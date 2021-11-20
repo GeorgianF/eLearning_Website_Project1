@@ -466,6 +466,8 @@ form label {
   flex-wrap: wrap;
   width: 100%;
   margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 #plans-footer h3, #plans-footer small, #plans-footer h5 {

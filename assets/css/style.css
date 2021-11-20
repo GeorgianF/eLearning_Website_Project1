@@ -211,22 +211,33 @@ iframe {
   color: black;
 }
 
+footer {
+  background-color: #fabc6a;
+}
+
 .flex {
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
   width: 80%;
-  margin: 15px 75px 30px 75px;
+  margin: 0px 75px 30px 75px;
+  padding-top: 15px ;
+  color: white;
 }
 
 .flex h3 {
-  color: #fa8128;
+  color: black;
+}
+
+.flex small {
+  color: black;
 }
 
 #copyright {
   text-align: center;
   padding-bottom: 10px;
+  color: black;
 }
 
 

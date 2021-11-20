@@ -10,6 +10,11 @@
   float: left;
   height: 90%;
   text-transform:uppercase;
+  margin-left: 10px;
+}
+
+#logo a {
+  text-decoration: none;
   color: transparent;
   -webkit-text-stroke: 1px #fff;
   background: url(../images/back.png);
@@ -233,7 +238,7 @@ iframe {
 }
 
 footer {
-  background-color: #fabc6a;
+  background-color: #fa8128;
 }
 
 .flex {
@@ -258,6 +263,10 @@ footer {
   text-align: center;
   padding-bottom: 10px;
   color: black;
+}
+
+#index-footer {
+  background-color: #fabc6a;
 }
 
 .social-icons-nav {
@@ -329,6 +338,10 @@ footer {
 #registration-reminder {
   margin-left: 30px;
   margin-bottom: 50px;
+}
+
+#courses-footer h3, #courses-footer small, #courses-footer h5 {
+  color: #fff;
 }
 
 /* Registration page */
@@ -421,7 +434,12 @@ form label {
   padding-right: 10px;
 }
 
-  #plans-button {
+#plans img {
+  float: inline-start;
+  height: 500px;
+}
+
+#plans-button {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -438,6 +456,20 @@ form label {
   bottom: 0;
   width: 100%;
   background-color: #f78128;
+  margin: 0 auto;
+}
+
+.flex-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#plans-footer h3, #plans-footer small, #plans-footer h5 {
+  color: #fff;
 }
 
 /* Media Queries */
@@ -455,10 +487,6 @@ form label {
   
   .container-courses h4 {
     padding: 5%;  
-  }
-
-  #plans-footer {
-    margin: 0 100px;
   }
 
   #register {

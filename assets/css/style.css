@@ -538,7 +538,24 @@ form label {
   #plans-footer {
     position: relative;
     bottom: 0%;
-    
+  }
+
+  .register-left {
+    text-align: left;
+  }
+
+  form input {
+    margin: 15px 0px 20px;
+  }
+  
+  #subjects {
+    margin-top: 15px;
+    width: 63%;
+  }
+
+  #submit-btn {
+    width: 180px;
+    margin-top: 50px;
   }
 
 }

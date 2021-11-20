@@ -218,12 +218,18 @@ iframe {
   flex-wrap: wrap;
   width: 80%;
   margin: 15px 75px 30px 75px;
-  padding: 25px 25px;
 }
 
 .flex h3 {
   color: #fa8128;
 }
+
+#copyright {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+
 
 .social-icons-nav {
   width: 40px;

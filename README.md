@@ -8,7 +8,8 @@ It does not have a targeted age group, it's universal, because there is a vast r
 Users will find on the website information about our mission, the courses available (but I only put 5 categories, with 5 subcategories) for more courses they have to submit the form that they can find on the register page.
 They can also find a page with the subscription plan.
 
-![Screenshot 2021-11-15 at 13 27 52](https://user-images.githubusercontent.com/91877102/142062121-50c2abdb-4b1d-44ee-966f-9c2dca4242ef.png)
+![Screenshot 2021-11-21 at 15 03 36](https://user-images.githubusercontent.com/91877102/142765010-7544bbb3-80b3-4e93-a12c-03d517e6e937.png)
+
 
 When chosing the main contrast of colors I used the websites:
 

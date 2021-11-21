@@ -349,9 +349,7 @@ footer {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding-bottom: 130px;
-  border-bottom: 1px solid rgba(58, 138, 18, 1);
-}
+  padding-bottom: 130px;}
 
 .register-right, .register-left {
   flex-basis: 40%;

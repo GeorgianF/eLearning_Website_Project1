@@ -35,7 +35,7 @@ The features sections are mentioned two times within the first page, so the user
 
 Section 3: Media
 
-There is a video, from youtube, insight on future education
+There is a video, from youtube, insight on future education.
 The link for the video is here: https://www.youtube.com/watch?v=LO4l5XpOc-s&t=2s
 
 Section 5: Mission

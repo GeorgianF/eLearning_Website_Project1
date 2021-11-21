@@ -46,13 +46,19 @@ You can find a button that will redirect to the registration form.
 
 ![Screenshot 2021-11-21 at 14 33 34](https://user-images.githubusercontent.com/91877102/142763987-b52cd940-70da-454d-9b33-ce3309a443d2.png)
 
+### Page 2
++ There is the courses page, where is posted 5 categories with 5 subcategories.
++ There is also a button that redirects the user to the register page.
 
-On the second page, there is the courses page, where is posted 5 categories with 5 subcategories.
-There is also a button that redirects the user to the register page.
+![Screenshot 2021-11-21 at 15 13 15](https://user-images.githubusercontent.com/91877102/142765358-f8a40786-5c8d-4b3b-9790-f3feff100778.png)
 
-On the third page, there is the plan that the user can choose is him development, and information about each one.
+### Page 3
++ On the third page, there is the plan that the user can choose is him development, and information about each one.
 
-On the forth page there is the registration form, where all the entry fields are required for valid form.
+![Screenshot 2021-11-21 at 15 16 00](https://user-images.githubusercontent.com/91877102/142765376-2b8ef43e-8c29-4c07-ab6d-67142a4d8de5.png)
+
+### Page 4
++ On the forth page there is the registration form, where all the entry fields are required for valid form.
 
 ![Screenshot 2021-11-21 at 14 30 46](https://user-images.githubusercontent.com/91877102/142763961-e5ca4015-0c42-4fb0-bf43-6f3a63099e3f.png)
 

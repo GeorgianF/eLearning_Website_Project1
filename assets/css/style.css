@@ -465,8 +465,8 @@ form label {
 
 #plans-footer {
   border-top: 1px solid black;
-  position: relative;
-  bottom: 0;
+  position: absolute;
+  bottom: 0%;
   width: 100%;
   background-color: #f78128;
   margin: 0 auto;

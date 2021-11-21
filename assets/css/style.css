@@ -408,10 +408,14 @@ form label {
 }
 
 #register-footer {
+  position: absolute;
+  bottom: 0%;
   background-color: #f78128;
   align-items: center;
   justify-content: space-evenly;
   padding-top: 15px;
+  width: 100%;
+  margin: 0;
 }
 
 #register-footer h3, #register-footer small, #register-footer h5 {

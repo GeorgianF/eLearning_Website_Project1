@@ -23,27 +23,28 @@ The navigation, tells the visitor where he can find the certain section, within 
 
 The first page, Home page, is structured in different sections:
 
-Section 1: About 
+**Section 1: About** 
 
 The user will find a short wisdom phrase about the learning process, and a button that will send him to the courses page.
 
 <img width="969" alt="Screenshot 2021-11-17 at 05 00 41" src="https://user-images.githubusercontent.com/91877102/142132351-1c691353-b4ec-4890-9f10-610be71d035f.png">
 
-Section 2 and 4: Features
+**Section 2 and 4: Features**
 
 The features sections are mentioned two times within the first page, so the user sees the advantages of chosing the learning plan.
 
-Section 3: Media
+**Section 3: Media**
 
 There is a video, from youtube, insight on future education.
 The link for the video is here: https://www.youtube.com/watch?v=LO4l5XpOc-s&t=2s
 
-Section 5: Mission
+**Section 5: Mission**
 
 The user will find information about the websites mission, on enabling anyone with acces to internet to have the resources to develop himself.
 You can find a button that will redirect to the registration form.
 
-<img width="692" alt="Screenshot 2021-11-17 at 05 07 59" src="https://user-images.githubusercontent.com/91877102/142133029-a7f62b07-085c-40ce-ad2c-ef29e06356b6.png">
+![Screenshot 2021-11-21 at 14 33 34](https://user-images.githubusercontent.com/91877102/142763987-b52cd940-70da-454d-9b33-ce3309a443d2.png)
+
 
 On the second page, there is the courses page, where is posted 5 categories with 5 subcategories.
 There is also a button that redirects the user to the register page.
@@ -52,28 +53,29 @@ On the third page, there is the plan that the user can choose is him development
 
 On the forth page there is the registration form, where all the entry fields are required for valid form.
 
-<img width="725" alt="Screenshot 2021-11-17 at 05 13 39" src="https://user-images.githubusercontent.com/91877102/142133511-2feba18b-4ad2-4798-b46e-da2b5e578dca.png">
+![Screenshot 2021-11-21 at 14 30 46](https://user-images.githubusercontent.com/91877102/142763961-e5ca4015-0c42-4fb0-bf43-6f3a63099e3f.png)
 
-Testing: 
 
-I've tested to see if the page it's working in different browsers: Firefox, Chrome, Edge, Safari.
-I've confirm that the page is responsive using the Dev Tools.
-I confirm that all the navigation and content are easy readable and have a balance of contrast.
-I confirm that the form works, but once the button is submited it does not have a server to go to, so it displays an error 405 - Not Allowed.
+**Testing**: 
 
-Validator testing
+* I've tested to see if the page it's working in different browsers: Firefox, Chrome, Edge, Safari.
+* I've confirm that the page is responsive using the Dev Tools.
+* I confirm that all the navigation and content are easy readable and have a balance of contrast.
+* I confirm that the form works, but once the button is submited it does not have a server to go to, so it displays an error 405 - Not Allowed.
 
-W3C is checked:
+**Validator testing**
+
+1. W3C is checked:
 
 ![Screenshot 2021-11-15 at 22 00 22](https://user-images.githubusercontent.com/91877102/142147110-8c912e3a-fded-4180-a4db-8e30de1424ed.png)
 
 
-CSS is checked:
+2. CSS is checked:
 
 ![Screenshot 2021-11-15 at 13 16 49](https://user-images.githubusercontent.com/91877102/142146983-a1765f64-e7a2-42e4-87fa-5ec6a1535704.png)
 
 
-Accesability with lighthouse is checked:
+3. Accesability with lighthouse is checked:
 
 
 ![Screenshot 2021-11-21 at 13 59 02](https://user-images.githubusercontent.com/91877102/142763091-b805d912-f5ff-4746-9b10-a34c98e65db9.png)
@@ -86,13 +88,12 @@ The problem was the link used for the background image, had to add "../" in fron
 
 ### DEPLOYMENT
 
-The link to the page can be found here : 
+The link to the page can be found here : https://georgianf.github.io/eLearning_Website_Project1/index.html
 
 ### CREDITS
-
-⋅⋅* The logo is using the same animation that I found on youtube on a tutorial, via link: https://www.youtube.com/watch?v=rc50owRPdUI
-⋅⋅* The box shadow effect I took them from the website: https://getcssscan.com/css-box-shadow-examples
-⋅⋅* The images are found searching on google with the key word "teaching"
++ The logo is using the same animation that I found on youtube on a tutorial, via link: https://www.youtube.com/watch?v=rc50owRPdUI
++ The box shadow effect I took them from the website: https://getcssscan.com/css-box-shadow-examples
++ The images are found searching on google with the key word "teaching"
 
 
 

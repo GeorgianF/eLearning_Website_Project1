@@ -15,22 +15,19 @@ When chosing the main contrast of colors I used the websites:
 https://mycolor.space/ 
 https://material.io/resources/color/#!/?view.left=0&view.right=0
 
-
-Features:
-
 Navivation: 
-
-In present on the top-right corner where there are link to other pages likes Courses, Plans, Register, but also Home. There are styled like a button, onnce you hover over them, the color changes. The font and color are in contrast with each other.
+Top-left corner there si the logo, that it's animated, with an link to the index.html page.
+In the top-right corner where there are link to other pages likes Courses, Plans, Register, but also Home. 
+There are styled like a button, once you hover over them, the color changes. The font and color are in contrast with each other.
 The navigation, tells the visitor where he can find the certain section, within the website, easy to find.
 
-The frst page, Home page, is structured in different sections:
+The first page, Home page, is structured in different sections:
 
 Section 1: About 
 
 The user will find a short wisdom phrase about the learning process, and a button that will send him to the courses page.
 
 <img width="969" alt="Screenshot 2021-11-17 at 05 00 41" src="https://user-images.githubusercontent.com/91877102/142132351-1c691353-b4ec-4890-9f10-610be71d035f.png">
-
 
 Section 2 and 4: Features
 
@@ -57,13 +54,12 @@ On the forth page there is the registration form, where all the entry fields are
 
 <img width="725" alt="Screenshot 2021-11-17 at 05 13 39" src="https://user-images.githubusercontent.com/91877102/142133511-2feba18b-4ad2-4798-b46e-da2b5e578dca.png">
 
-
 Testing: 
 
 I've tested to see if the page it's working in different browsers: Firefox, Chrome, Edge, Safari.
 I've confirm that the page is responsive using the Dev Tools.
 I confirm that all the navigation and content are easy readable and have a balance of contrast.
-I confirm that the form work, but once the button is submited it does not have a server to go to, so it displays an error 405 - Not Allowed.
+I confirm that the form works, but once the button is submited it does not have a server to go to, so it displays an error 405 - Not Allowed.
 
 Validator testing
 
@@ -80,8 +76,23 @@ CSS is checked:
 Accesability with lighthouse is checked:
 
 
+![Screenshot 2021-11-21 at 13 59 02](https://user-images.githubusercontent.com/91877102/142763091-b805d912-f5ff-4746-9b10-a34c98e65db9.png)
 
 
+### BUGS
+
+When I deployed to page the github pages the images on the index.html did not displayed. 
+The problem was the link used for the background image, had to add "../" in front of the image folder.
+
+### DEPLOYMENT
+
+The link to the page can be found here : 
+
+### CREDITS
+
+⋅⋅* The logo is using the same animation that I found on youtube on a tutorial, via link: https://www.youtube.com/watch?v=rc50owRPdUI
+⋅⋅* The box shadow effect I took them from the website: https://getcssscan.com/css-box-shadow-examples
+⋅⋅* The images are found searching on google with the key word "teaching"
 
 
 

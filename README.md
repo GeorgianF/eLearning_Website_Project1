@@ -1,3 +1,5 @@
+# CONNECT eLearning
+
 The Learning Project is a landing website where anyone can be challenged to learn and develop themself.
 The idea behind the website is that you, as a customer, register the information about yourself and the subject interested to learn, and we will provide will material for you to learn from all over the web.
 

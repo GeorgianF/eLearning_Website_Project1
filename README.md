@@ -101,7 +101,16 @@ The link to the page can be found here : https://georgianf.github.io/eLearning_W
 + The logo is using the same animation that I found on youtube on a tutorial, via link: https://www.youtube.com/watch?v=rc50owRPdUI
 + The box shadow effect I took them from the website: https://getcssscan.com/css-box-shadow-examples
 + The images are found searching on google with the key word "teaching"
++ To make the JavaScript functions I have to through the following material:
+- https://www.youtube.com/watch?v=tjyDOHzKN0w
+- https://www.youtube.com/watch?v=ZniVgo8U7ek
 
++ Also visited the sites:
+- https://marina-ferreira.github.io/
+- https://mikkegoes.com/javascript-projects-for-beginners/
+- https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8
+- https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
+- https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae
 
 
 
